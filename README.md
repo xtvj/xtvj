@@ -16,9 +16,7 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtvj&theme=blue-white&count_private=true" alt="github stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=xtvj&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtvj&theme=blue-white&count_private=true" alt="github stats">
 
-
-
-![xtvj github activity graph](https://activity-graph.herokuapp.com/graph?username=xtvj&theme=react-dark)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=xtvj&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
 
