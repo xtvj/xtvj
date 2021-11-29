@@ -1,4 +1,4 @@
-#### Blog posts
+#### 最新文章
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -14,8 +14,8 @@
 
 <!-- BLOG-POST-LIST:END -->
 
+#### 统计信息
+
 <p>
 <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=xtvj&show_icons=true&locale=cn" />
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=xtvj&locale=cn" /></p>
-
-
