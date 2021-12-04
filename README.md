@@ -16,6 +16,9 @@
 
 #### 统计信息
 
-<p>
-<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=xtvj&show_icons=true&locale=cn" />
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=xtvj&locale=cn" /></p>
+<a>
+<a href="https://github-readme-stats.vercel.app/api?layout=compact&count_private=true&username=xtvj&show_icons=true&locale=cn&include_all_commits=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?layout=compact&count_private=true&username=xtvj&show_icons=true&locale=cn&include_all_commits=true" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&count_private=true&username=xtvj&hide=javascript,html,css&locale=cn&include_all_commits=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&count_private=true&username=xtvj&hide=javascript,html,css&locale=cn&include_all_commits=true" />
+</a>
